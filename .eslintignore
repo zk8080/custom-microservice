@@ -1,0 +1,4 @@
+HOST=127.0.0.1
+PORT=3001
+BROWSER=Google Chrome
+PUBLIC_PATH='http://127.0.0.1:3001'
